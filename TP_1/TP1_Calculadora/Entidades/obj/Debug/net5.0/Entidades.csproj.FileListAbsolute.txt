@@ -1,0 +1,12 @@
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\bin\Debug\net5.0\Entidades.deps.json
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\bin\Debug\net5.0\Entidades.dll
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\bin\Debug\net5.0\Entidades.pdb
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\obj\Debug\net5.0\Entidades.dll
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+E:\Facultad\Laboratorio_2\TPs\TP_1\TP1_Calculadora\Entidades\obj\Debug\net5.0\Entidades.pdb
